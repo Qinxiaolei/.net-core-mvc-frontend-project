@@ -1,0 +1,86 @@
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\bin\Debug\net5.0\appsettings.Development.json
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\bin\Debug\net5.0\appsettings.json
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\bin\Debug\net5.0\package-lock.json
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\bin\Debug\net5.0\package.json
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\bin\Debug\net5.0\tsconfig.json
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\bin\Debug\net5.0\dotnet core mvc frontend project.exe
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\bin\Debug\net5.0\dotnet core mvc frontend project.deps.json
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\bin\Debug\net5.0\dotnet core mvc frontend project.runtimeconfig.json
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\bin\Debug\net5.0\dotnet core mvc frontend project.runtimeconfig.dev.json
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\bin\Debug\net5.0\dotnet core mvc frontend project.dll
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\bin\Debug\net5.0\ref\dotnet core mvc frontend project.dll
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\bin\Debug\net5.0\dotnet core mvc frontend project.pdb
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\bin\Debug\net5.0\dotnet core mvc frontend project.Views.dll
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\bin\Debug\net5.0\dotnet core mvc frontend project.Views.pdb
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\dotnet core mvc frontend project.csproj.AssemblyReference.cache
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\dotnet core mvc frontend project.GeneratedMSBuildEditorConfig.editorconfig
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\dotnet core mvc frontend project.AssemblyInfoInputs.cache
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\dotnet core mvc frontend project.AssemblyInfo.cs
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\dotnet core mvc frontend project.csproj.CoreCompileInputs.cache
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\dotnet core mvc frontend project.MvcApplicationPartsAssemblyInfo.cache
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\dotnet core mvc frontend project.RazorAssemblyInfo.cache
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\dotnet core mvc frontend project.RazorAssemblyInfo.cs
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\staticwebassets\dotnet core mvc frontend project.StaticWebAssets.Manifest.cache
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\staticwebassets\dotnet core mvc frontend project.StaticWebAssets.xml
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\scopedcss\bundle\dotnet core mvc frontend project.styles.css
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\dotnet core mvc frontend project.TagHelpers.input.cache
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\dotnet core mvc frontend project.TagHelpers.output.cache
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\dotnet core mvc frontend project.RazorCoreGenerate.cache
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\dotnet core mvc frontend project.RazorTargetAssemblyInfo.cache
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\dotnet core mvc frontend project.RazorTargetAssemblyInfo.cs
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\dotnet core mvc frontend project.Views.pdb
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\dotnet core mvc frontend project.dll
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\ref\dotnet core mvc frontend project.dll
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\dotnet core mvc frontend project.pdb
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\dotnet core mvc frontend project.genruntimeconfig.cache
+G:\2021\Project\.net core mvc frontend project\dotnet core mvc frontend project\obj\Debug\net5.0\dotnet core mvc frontend project.csproj.CopyComplete
+G:\2021\Project\Git\Proj\dcmf\bin\Debug\net5.0\appsettings.Development.json
+G:\2021\Project\Git\Proj\dcmf\bin\Debug\net5.0\appsettings.json
+G:\2021\Project\Git\Proj\dcmf\bin\Debug\net5.0\package-lock.json
+G:\2021\Project\Git\Proj\dcmf\bin\Debug\net5.0\package.json
+G:\2021\Project\Git\Proj\dcmf\bin\Debug\net5.0\tsconfig.json
+G:\2021\Project\Git\Proj\dcmf\bin\Debug\net5.0\dotnet core mvc frontend project.exe
+G:\2021\Project\Git\Proj\dcmf\bin\Debug\net5.0\dotnet core mvc frontend project.deps.json
+G:\2021\Project\Git\Proj\dcmf\bin\Debug\net5.0\dotnet core mvc frontend project.runtimeconfig.json
+G:\2021\Project\Git\Proj\dcmf\bin\Debug\net5.0\dotnet core mvc frontend project.runtimeconfig.dev.json
+G:\2021\Project\Git\Proj\dcmf\bin\Debug\net5.0\dotnet core mvc frontend project.dll
+G:\2021\Project\Git\Proj\dcmf\bin\Debug\net5.0\ref\dotnet core mvc frontend project.dll
+G:\2021\Project\Git\Proj\dcmf\bin\Debug\net5.0\dotnet core mvc frontend project.pdb
+G:\2021\Project\Git\Proj\dcmf\bin\Debug\net5.0\dotnet core mvc frontend project.Views.dll
+G:\2021\Project\Git\Proj\dcmf\bin\Debug\net5.0\dotnet core mvc frontend project.Views.pdb
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\dotnet core mvc frontend project.csproj.AssemblyReference.cache
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\dotnet core mvc frontend project.GeneratedMSBuildEditorConfig.editorconfig
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\dotnet core mvc frontend project.AssemblyInfoInputs.cache
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\dotnet core mvc frontend project.AssemblyInfo.cs
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\dotnet core mvc frontend project.csproj.CoreCompileInputs.cache
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\dotnet core mvc frontend project.MvcApplicationPartsAssemblyInfo.cache
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\dotnet core mvc frontend project.RazorAssemblyInfo.cache
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\dotnet core mvc frontend project.RazorAssemblyInfo.cs
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\staticwebassets\dotnet core mvc frontend project.StaticWebAssets.Manifest.cache
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\staticwebassets\dotnet core mvc frontend project.StaticWebAssets.xml
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\scopedcss\bundle\dotnet core mvc frontend project.styles.css
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\dotnet core mvc frontend project.TagHelpers.input.cache
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\dotnet core mvc frontend project.TagHelpers.output.cache
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\dotnet core mvc frontend project.RazorCoreGenerate.cache
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\dotnet core mvc frontend project.RazorTargetAssemblyInfo.cache
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\dotnet core mvc frontend project.RazorTargetAssemblyInfo.cs
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\dotnet core mvc frontend project.Views.pdb
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\dotnet core mvc frontend project.dll
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\ref\dotnet core mvc frontend project.dll
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\dotnet core mvc frontend project.pdb
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\dotnet core mvc frontend project.genruntimeconfig.cache
+G:\2021\Project\Git\Proj\dcmf\obj\Debug\net5.0\dotnet core mvc frontend project.csproj.CopyComplete

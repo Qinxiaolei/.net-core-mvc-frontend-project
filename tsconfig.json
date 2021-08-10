@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "target": "es2015",
+    "allowSyntheticDefaultImports": true,
+    "outDir": "wwwroot/outDir/"
+  },
+  "include": [
+    "ts/**/*"
+  ]
+}

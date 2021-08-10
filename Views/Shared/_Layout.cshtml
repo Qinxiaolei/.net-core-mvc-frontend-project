@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - dotnet_core_mvc_frontend_project</title>
+    <!-- bootstrap样式表 -->
+    <link rel="stylesheet" href="~/lib/bootstrap-5.1.0-dist/css/bootstrap.min.css" />
+    <!-- font-awesome样式表 -->
+    <link rel="stylesheet" href="~/lib/fontawesome-pro-6.0.0-beta1-web/css/all.min.css" />
+    <!-- 自定义样式表 -->
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <main class="container-fluid">
+        @RenderBody()
+    </main>
+
+    
+    <!-- bootstrap js文件 -->
+    <script src="~/lib/bootstrap-5.1.0-dist/js/bootstrap.bundle.min.js"></script>
+    <!-- font-awesome js文件 -->
+    <script src="~/lib/fontawesome-pro-6.0.0-beta1-web/js/all.min.js"></script>
+    <!-- ts编译后的js文件 -->
+    <script src="~/js/bundle.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
